@@ -2,9 +2,9 @@ Title: The ALMA Survey of 70 um Dark High-mass Clumps in Early Stages
     (ASHES). Xi. Statistical Study of Early Fragmentation 
 Authors: Morii K., Sanhueza P., Zhang Q., Nakamura F., Li S., Sabatini G., 
     Olguin F.A., Beuther H., Tafoya D., Izumi N., Tatematsu K., Sakai T. 
-Table: Summary of N2D+ and DCO+ Line Fitting Results
+Table: 3.9 Summary of N2D+ and DCO+ Line Fitting Results
 ================================================================================
-Byte-by-byte Description of file: datafile1.txt
+Byte-by-byte Description of file: datafile9_linefit.txt
 --------------------------------------------------------------------------------
    Bytes Format Units Label  Explanations
 --------------------------------------------------------------------------------
