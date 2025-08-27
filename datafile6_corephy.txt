@@ -2,7 +2,7 @@ Title: Observational Constraints on the Initial Conditions of High-Mass Star For
 Author: Morii K.
 Table: 3.6 Core physical parameters
 ================================================================================
-Byte-by-byte Description of file: datafile4.txt
+Byte-by-byte Description of file: datafile6_corephy.txt
 --------------------------------------------------------------------------------
    Bytes Format Units     Label      Explanations
 --------------------------------------------------------------------------------
