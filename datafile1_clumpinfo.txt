@@ -1,6 +1,6 @@
 Title: Observational Constraints on the Initial Conditions of High-Mass Star Formation
 Author: Morii K.
-Table: 3.1. Physical Properties of ASHES Clumps
+Table: 3.1 Physical Properties of ASHES Clumps
 ================================================================================
 Byte-by-byte Description of file: datafile1_clumpinfo.txt
 --------------------------------------------------------------------------------
