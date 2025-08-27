@@ -1,6 +1,6 @@
 Title: Observational Constraints on the Initial Conditions of High-Mass Star Formation
 Author: Morii K.
-Table: 3.7 Core physical parameters
+Table: 3.6 Core physical parameters
 ================================================================================
 Byte-by-byte Description of file: datafile4.txt
 --------------------------------------------------------------------------------
