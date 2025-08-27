@@ -1,7 +1,5 @@
-Title: The ALMA Survey of 70 um Dark High-mass Clumps in Early Stages
-    (ASHES). Xi. Statistical Study of Early Fragmentation 
-Authors: Morii K., Sanhueza P., Zhang Q., Nakamura F., Li S., Sabatini G., 
-    Olguin F.A., Beuther H., Tafoya D., Izumi N., Tatematsu K., Sakai T. 
+Title: Observational Constraints on the Initial Conditions of High-Mass Star Formation
+Author: Morii K.
 Table: 3.9 Summary of N2D+ and DCO+ Line Fitting Results
 ================================================================================
 Byte-by-byte Description of file: datafile9_linefit.txt
