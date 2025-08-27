@@ -1,10 +1,6 @@
-Title: The ALMA Survey of 70um Dark High-mass Clumps in Early Stages
-    (ASHES). IX. Physical Properties and Spatial Distribution of
-    Cores in IRDCs
-Authors: Morii K., Sanhueza P., Nakamura F., Zhang Q., Sabatini G., Beuther H., 
-    Lu X., Li S., Garay G., Jackson J.M., Olguin F.A., Tafoya D., Tatematsu K., 
-    Izumi N., Sakai T., Silva A.
-Table: Core physical parameters
+Title: Observational Constraints on the Initial Conditions of High-Mass Star Formation
+Author: Morii K.
+Table: 3.7 Core physical parameters
 ================================================================================
 Byte-by-byte Description of file: datafile4.txt
 --------------------------------------------------------------------------------
