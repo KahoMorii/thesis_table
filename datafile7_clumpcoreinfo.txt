@@ -2,7 +2,7 @@ Title: Observational Constraints on the Initial Conditions of High-Mass Star For
 Author: Morii K.
 Table: 3.7 Properties of Cores in Each Clump
 ================================================================================
-Byte-by-byte Description of file: datafile5.txt
+Byte-by-byte Description of file: datafile7_clumpcoreinfo.txt
 --------------------------------------------------------------------------------
    Bytes Format Units Label          Explanations
 --------------------------------------------------------------------------------
