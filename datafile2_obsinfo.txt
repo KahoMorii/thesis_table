@@ -2,7 +2,7 @@ Title: Observational Constraints on the Initial Conditions of High-Mass Star For
 Author: Morii K.
 Table: 3.2 & 3.3 Observational Parameters and Information of Continuum Images
 ================================================================================
-Byte-by-byte Description of file: datafile2.txt
+Byte-by-byte Description of file: datafile2_obsinfo.txt
 --------------------------------------------------------------------------------
    Bytes Format Units    Label          Explanations
 --------------------------------------------------------------------------------
